@@ -60,7 +60,7 @@ Things I can read, debug and explain without help:
 
 ## Right now
 
-- 🔭 Building a public internet-outage data pipeline
+- 🔭 Learning AWS Certified Solutions Architect - Associate, and building the OpenFiberOps python project and plan to practice Devops on it
 - 🎯 Open to roles in network automation, Python, AI Developer, and data engineering
 
 ## Get in touch
