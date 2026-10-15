@@ -35,7 +35,7 @@ Most of my work lives in private company repositories, so here is what it does r
 | Project | What it does | Stack |
 |---|---|---|
 | [OpenFiberOps](https://github.com/hussein-sameer/OpenFiberOps) 🚧 | Fiber-network incident tracking API with SLA metrics, on synthetic data, to mock my private repos work without compromising company data | Python · PostgreSQL · Docker |
-| [IoT MQTT Platform](https://github.com/hussein-sameer/iot-mqtt-platform) | | Self-hosted IoT platform for ESP8266 edge devices, using MQTT for low-power, low-bandwidth messaging and Node-RED for orchestration | C++ (Arduino) · Node-RED · MySQL |
+| [IoT MQTT Platform](https://github.com/hussein-sameer/iot-mqtt-platform) | Self-hosted IoT platform for ESP8266 edge devices, using MQTT for low-power, low-bandwidth messaging and Node-RED for orchestration | C++ (Arduino) · Node-RED · MySQL |
 | [CV Builder](https://github.com/hussein-sameer/cv-builder) † | Cloud-hosted on Northflank Cloud Platform, ATS-friendly CV generator with International/EU formatting options: DOCX and text-based PDF export with new AI export idea without API, AI-drafted summaries, multi-user accounts | Python, FastAPI, PostgreSQL, Docker |
 
 ## Toolbox
