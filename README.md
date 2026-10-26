@@ -44,7 +44,7 @@ Things I can read, debug and explain without help:
 
 | Area | Tools |
 |---|---|
-| Languages | Python, SQL (PostgreSQL), Bash, VBA |
+| Languages | Python, Basic SQL (PostgreSQL), Bash, Excel VBA |
 | Automation | cron, Flask endpoints that trigger scripts, Selenium, Google Sheets API (gspread) |
 | Integrations | REST APIs, Microsoft Graph / SharePoint Lists, SNMP (pysnmp), Postman |
 | Data and reporting | PostgreSQL, Grafana, DBeaver |
