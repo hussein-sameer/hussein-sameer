@@ -54,9 +54,9 @@ Things I can read, debug and explain without help:
 
 ## Background
 
-- **Fibre and telecom:** OTDR, optical loss budgets, FTTH deployment and operations, fibre-cut and power ticket lifecycles, site power (rectifiers, inverters, batteries, solar)
+- **Fiber and telecom:** OTDR, optical loss budgets, FTTH deployment and operations, fibre-cut and power ticket lifecycles, site power (rectifiers, inverters, batteries, solar)
 - **Education:** B.Sc. Electronics and Communications Engineering, Al-Nahrain University, first in class
-- **Teaching:** Teaching Assistant at Al-Nahrain University (2023–2025) for programming (C++, Assembly, MATLAB), telecom and electronics labs
+- **Teaching:** Lab Assistant at Al-Nahrain University (2023–2025) for programming (C++, Assembly, MATLAB), telecom and electronics labs
 
 ## Right now
 
